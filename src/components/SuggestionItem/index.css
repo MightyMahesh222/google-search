@@ -1,0 +1,21 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 13px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.arrow {
+  height: 2.5vh;
+}
+.forUl {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: flex-start;
+}
